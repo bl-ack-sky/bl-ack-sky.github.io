@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![black sky logo](logo_std.svg)
